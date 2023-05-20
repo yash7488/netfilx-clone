@@ -1,2 +1,2 @@
 # netfilx-clone
-netflix clone build with firebase authentication of users , here we can add movies  or tv shows to our like page or we can also remove it from that page . We can also filter the movies or tv shows according to the genre s
+Netflix clone built with Firebase authentication for users Here we can add movies or TV shows to our like page, or we can also remove them from that page. We can also filter the movies or TV shows according to genre.
